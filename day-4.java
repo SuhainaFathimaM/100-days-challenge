@@ -3,6 +3,7 @@ public class voter{
   {
     int age=19;
     if(age >= 18)
-       ("You Can Vote");
+       System.out.println("You Can Vote");
     else
-      ("You cannot vote");
+      System.out.println("You cannot vote");
+  }}
