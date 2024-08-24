@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class pattern {
     public static void printPattern(int n)
     {
